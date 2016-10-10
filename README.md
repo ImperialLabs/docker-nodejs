@@ -10,7 +10,8 @@ The NodeJS slapi script image used to run Node, Javascript, or Coffescript langu
 FROM slapi/nodejs:latest
 ```
 
-
 # Libraries
 
-
+- [Request](https://www.npmjs.com/package/request)
+- [Moment](https://www.npmjs.com/package/moment)
+- [Node Rest Client](https://www.npmjs.com/package/node-rest-client)
