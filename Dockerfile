@@ -15,4 +15,4 @@ RUN apk add \
     node-rest-client
     # Cleanup
     npm cache clean -f &&\
-    rm /var/cache/apk/* &&\
+    rm /var/cache/apk/*
